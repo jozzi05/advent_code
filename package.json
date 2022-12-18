@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit challenges/1"
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit challenges/2022/1"
   },
   "keywords": [],
   "author": "",
